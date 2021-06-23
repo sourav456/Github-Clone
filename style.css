@@ -1,0 +1,155 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+  }
+  
+  .topnav a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #04AA6D;
+    color: white;
+  }
+  
+  .topnav .icon {
+    display: none;
+  }
+
+  .navbar-brand img{
+margin-left: 20px;
+  }
+  h1{
+      text-align:center;
+      font-weight: 800;
+      font-family: Alliance No\.1,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  }
+  h3{
+      color:salmon;
+      text-align: center;
+      border:solid salmon 1px;
+      border-radius: 5%;
+      padding:5px;
+      margin-top:3px;
+      margin-bottom: 8px;
+   font-weight:800;
+    font-family: Alliance No\.1,-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  }
+  .repository{
+      font-size: 18px;
+font-weight:700;
+color:whitesmoke;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+  
+.username1{
+    font-size:18px;
+    font-weight:600;
+color:whitesmoke;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+  body{
+      background-image: url("https://img1.wallspic.com/previews/2/7/8/5/5/155872/155872-github-logo-azure-aqua-turquoise-x750.jpg");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+  span{
+      text-align:center;
+  }
+
+  .info1{
+      text-align:center;
+      font-size:1vw;
+      word-spacing: 5px;
+      line-height: 1.8;
+      font-weight:bolder;  
+      font-family:Georgia, 'Times New Roman', Times, serif;
+  }
+  .info2{
+      font-style: inherit;
+      font-size:1vw;
+      color:wheat;
+      margin-top: 200px;
+      margin-right: 20px;
+    word-spacing:20px;
+    text-align:center;
+    line-height: 1.8;
+      font-weight:800;  
+      font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    .info3{
+        word-spacing:20px;
+        font-size:1vw;
+        color:wheat;
+        text-align:center;
+        line-height: 1.8;
+        margin-right:20px;
+        padding-left: 40px;
+          font-weight:600;  
+          font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+    
+      
+      
+        .social {
+          padding-left: 200px;
+          margin-top: 50px;
+          margin-left:350px;
+        }
+        .socialMedia{
+          color: rgba(11, 207, 175, 0.89);
+          font-size:1vw;
+          list-style-type: none;
+          display: inline-block;
+          width: 80px;
+          height: 80px;
+          line-height: 50px;
+          padding: 1%;
+          
+          cursor: pointer;
+          margin-left: 10px;
+          margin-bottom: 20px;
+          transition: ease .3s;
+          &:hover {
+            color: rgba(167, 146, 129, 1);
+            border: 1px solid rgba(167, 146, 129, 1);
+          }
+        }
+      }
+      
+      .social:hover > li {
+        opacity: 0.5;
+      }
+      
+      .social:hover > li:hover {
+        opacity: 1;
+      }
+      .heading{
+        color:rgb(24, 228, 194);
+        text-align: center;
+        border: 2px;
+        margin-top:10px;
+        margin-bottom: 20px;
+     font-weight:900;
+      font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif 
+
+      }
+      
